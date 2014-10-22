@@ -35,6 +35,7 @@ brew cask install postgres
 brew cask install transmission
 brew cask install heroku-toolbelt
 brew install wget
+brew cask install xquartz
 
 echo "Done."
 echo "You also need to install:"
