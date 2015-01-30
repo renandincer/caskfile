@@ -38,6 +38,7 @@ brew install wget
 brew cask install xquartz
 brew install lastpass-cli
 brew cask install lastpass
+brew install wireshark
 
 echo "Done."
 echo "You also need to install:"
