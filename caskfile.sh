@@ -36,6 +36,8 @@ brew cask install transmission
 brew cask install heroku-toolbelt
 brew install wget
 brew cask install xquartz
+brew install lastpass-cli
+brew cask install lastpass
 
 echo "Done."
 echo "You also need to install:"
